@@ -1,0 +1,101 @@
+
+body {
+  font-size: 16px;
+  color: black;
+  background-color: white;
+  font-family: 'Josefin Sans', cursive,sans-serif;
+}
+
+#header-nav {
+  background-color: blue;
+  border-radius: 0;
+
+  border: 1px;
+  min-height: 75px;
+}
+
+.navbar-brand h1 {
+  font-family: 'Josefin Sans';
+  color: white;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  line-height: .75;
+
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list a {
+  color:black;
+  font-weight: bold;
+}
+
+#nav-list a:hover {
+  background:whitesmoke;
+  color: #FF0000;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+#page-title {
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+#main-text {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.text-background {
+  height: auto;
+  padding: 20px 40px 20px 40px;
+  background-color:#999999;
+  overflow: hidden;
+}
+
+h3 {
+  font-weight: bold;
+}
+.footer-copyright{
+  color:rgb(0, 0, 0) ;
+  padding: 40px;
+}
+
+#back
+{
+color: darkgreen ;
+}
+#back a {
+  color: orangered ;
+}
+h2 {
+  color: #ff3300;
+  text-transform: uppercase;
+}
+
+#chicken,#beef,#sushi {
+  color: crimson;
+}
+.text-background {
+  color: black;
+  background-color: lightcyan;
+}
+
+ #nav-list a {
+  color: white;
+} 
+
+
